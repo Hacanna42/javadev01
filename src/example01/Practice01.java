@@ -20,6 +20,7 @@ public class Practice01 {
        System.out.println(d_num1);
        d_num1 = d_num1 + d_num2;
        System.out.println("°á°ú : " +(d_num1 + d_num2));
+       
 	}
 
 }
